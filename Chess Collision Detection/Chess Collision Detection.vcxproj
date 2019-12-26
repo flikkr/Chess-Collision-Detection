@@ -18,6 +18,20 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\src\Bishop.cpp" />
+    <ClCompile Include="..\src\Game.cpp" />
+    <ClCompile Include="..\src\Piece.cpp" />
+    <ClCompile Include="..\src\Queen.cpp" />
+    <ClCompile Include="..\src\Rook.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\src\Bishop.h" />
+    <ClInclude Include="..\src\Game.h" />
+    <ClInclude Include="..\src\Piece.h" />
+    <ClInclude Include="..\src\Queen.h" />
+    <ClInclude Include="..\src\Rook.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <ProjectGuid>{6AA965DA-3150-49BA-94DE-ADE8CCE3EDA7}</ProjectGuid>
@@ -137,20 +151,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\..\..\Desktop\New folder\Bishop.cpp" />
-    <ClCompile Include="..\..\..\..\Desktop\New folder\Game.cpp" />
-    <ClCompile Include="..\..\..\..\Desktop\New folder\Piece.cpp" />
-    <ClCompile Include="..\..\..\..\Desktop\New folder\Queen.cpp" />
-    <ClCompile Include="..\..\..\..\Desktop\New folder\Rook.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\..\..\Desktop\New folder\Bishop.h" />
-    <ClInclude Include="..\..\..\..\Desktop\New folder\Game.h" />
-    <ClInclude Include="..\..\..\..\Desktop\New folder\Piece.h" />
-    <ClInclude Include="..\..\..\..\Desktop\New folder\Queen.h" />
-    <ClInclude Include="..\..\..\..\Desktop\New folder\Rook.h" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

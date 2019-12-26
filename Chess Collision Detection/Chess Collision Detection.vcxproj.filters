@@ -15,36 +15,36 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Desktop\New folder\Bishop.cpp">
+    <ClCompile Include="..\src\Bishop.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Desktop\New folder\Game.cpp">
+    <ClCompile Include="..\src\Game.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Desktop\New folder\Piece.cpp">
+    <ClCompile Include="..\src\Piece.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Desktop\New folder\Queen.cpp">
+    <ClCompile Include="..\src\Queen.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Desktop\New folder\Rook.cpp">
+    <ClCompile Include="..\src\Rook.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\Desktop\New folder\Bishop.h">
+    <ClInclude Include="..\src\Bishop.h">
       <Filter>Source Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Desktop\New folder\Game.h">
+    <ClInclude Include="..\src\Game.h">
       <Filter>Source Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Desktop\New folder\Piece.h">
+    <ClInclude Include="..\src\Piece.h">
       <Filter>Source Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Desktop\New folder\Queen.h">
+    <ClInclude Include="..\src\Queen.h">
       <Filter>Source Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Desktop\New folder\Rook.h">
+    <ClInclude Include="..\src\Rook.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
