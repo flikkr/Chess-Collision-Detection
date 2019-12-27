@@ -2,6 +2,6 @@
 Basic collision detection exercise as part of a university module. Deals with square and circle collisions.
 
 ### Output
-![Output 1](sample/output1.png)
+![](/sample/output1.PNG)
 
-![Output 2](sample/output2.png)
+![](/sample/output2.PNG)
